@@ -23,7 +23,9 @@
 
 #### Demo影片
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/TTFK7Y2WrKI/0.jpg)](https://www.youtube.com/watch?v=TTFK7Y2WrKI&feature=youtu.be  "CameraMaster")
+
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/r42PsyZyvV8/0.jpg)](https://www.youtube.com/watch?v=r42PsyZyvV8&feature=youtu.be  "CameraMaster")
 
 #### 說明
 ###### 分成3個狀態: 初始位置, 顯示照片, 聆聽音樂,  透過將筆旋轉到不同的角度會有不同的應用
